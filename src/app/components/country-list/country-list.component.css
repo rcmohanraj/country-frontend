@@ -1,0 +1,38 @@
+.content {
+    width: 80%;
+}
+
+.progress-custom {
+    /* width: 80%;    */
+    display: flex;
+    margin: auto;
+}
+
+.align-group {
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+
+.align-content {
+    /* width: 80%; */
+    display: flex;
+    margin: auto;
+}
+
+.align-error {
+    width: 50%;
+    display: flex;
+    margin: auto;  
+}
+
+.table-fixed {
+    position: sticky;
+    top: 0;
+}
+
+table thead tr th {
+    text-align: center;
+    position: sticky; 
+    top:0;
+}
